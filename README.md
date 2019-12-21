@@ -4,14 +4,14 @@ This github repository is created solely for me to become famliliar with git.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+N/A
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+N/A
 
 ```
-Give examples
+No examples to show
 ```
 
 ### Installing
