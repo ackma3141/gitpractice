@@ -16,16 +16,12 @@ No examples to show
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+Git is already installed on many linux distribution (the simple terminal command is given below). For other platforms, please google search on your own. 
 ```
-Give the example
+sudo apt install git-all
 ```
 
-And repeat
-
+If you are on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS), you can use dnf
 ```
 until finished
 ```
