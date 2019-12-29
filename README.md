@@ -4,14 +4,13 @@ This github repository is created solely for me to become famliliar with git.
 
 ## Getting Started
 
-N/A
+Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows (https://en.wikipedia.org/wiki/Git)
 
 ### Prerequisites
 
-N/A
-
+Working PC (linux OS preferred) such as
 ```
-No examples to show
+Ubuntu OS PC
 ```
 
 ### Installing
@@ -23,14 +22,15 @@ sudo apt install git-all
 
 If you are on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS), you can use dnf
 ```
-until finished
+sudo dnf install git-all
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Create a directory in which to initiate git
+```
+git init
+```
 
 ### Break down into end to end tests
 
