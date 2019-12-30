@@ -8,10 +8,7 @@ Git is a distributed version-control system for tracking changes in source code 
 
 ### Prerequisites
 
-Working PC (linux OS preferred) such as
-```
-Ubuntu OS PC
-```
+Working PC (linux OS preferred) such as Ubuntu OS PC. For other platforms, please consult other sources.
 
 ### Installing
 
@@ -34,18 +31,13 @@ git init
 
 Within this directory you can start verson controlling with many git commands.
 
-### Break down into end to end tests
+### Remote repository 
 
-Explain what these tests test and why
+Create Github repository to which to push your git changes. Instructions on how to associate your git directory with Github repository will be provided. For convenient push, on Github repository site, go to deploy keys setting and set up SSH connection (If you already have public and private keys stored in your PC, use that. If you need public and private keys for SSH, use keygen program to generate them).
 
-```
-Give an example
-```
+### Git commands 
 
-### And coding style tests
-
-Explain what these tests test and why
-
+Here are frequently used basic git commands. 
 ```
 Give an example
 ```
