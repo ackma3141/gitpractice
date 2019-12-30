@@ -4,7 +4,7 @@ This github repository is created solely for me to become famliliar with git.
 
 ## Getting Started
 
-Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows (https://en.wikipedia.org/wiki/Git)
+Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows (https://en.wikipedia.org/wiki/Git).
 
 ### Prerequisites
 
@@ -12,7 +12,7 @@ Working PC (linux OS preferred) such as Ubuntu OS PC. For other platforms, pleas
 
 ### Installing
 
-Git is already installed on many linux distribution (the simple terminal command is given below). For other platforms, please google search on your own. 
+Git is already installed on many linux distribution (simple terminal command is given below). For other platforms, please google search on your own. 
 ```
 sudo apt install git-all
 ```
@@ -39,9 +39,12 @@ Create Github repository to which to push your git changes. Instructions on how 
 
 Here are frequently used basic git commands. 
 ```
-Give an example
+git add
+git commit
+git push
 ```
 
+git add 
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
