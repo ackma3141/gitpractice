@@ -1,4 +1,4 @@
-# Project Title
+# Git Practice 
 
 This github repository is created solely for me to become famliliar with git. 
 
@@ -25,12 +25,14 @@ If you are on Fedora (or any closely-related RPM-based distribution, such as RHE
 sudo dnf install git-all
 ```
 
-## Running the tests
+## Git repository tests 
 
-Create a directory in which to initiate git
+Create git repository in the current directory:
 ```
 git init
 ```
+
+Within this directory you can start verson controlling with many git commands.
 
 ### Break down into end to end tests
 
