@@ -44,7 +44,8 @@ git commit
 git push
 ```
 
-git add 
+git add command updates the index using the current content found in the working tree, to prepare the content staged for the next commit. git commit records changes to the repository. git push updates remote refs along with associated objects (https://git-scm.com/docs).
+
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
