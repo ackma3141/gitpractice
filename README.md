@@ -48,7 +48,7 @@ git add command updates the index using the current content found in the working
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Once you are finished with coding, you can simply push your code to remote Github repository.
 
 ## Built With
 
@@ -76,8 +76,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* I thank Billie Thompson for providing README.md template for this work.
 
 # gitpractice
