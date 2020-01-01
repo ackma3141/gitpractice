@@ -76,4 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.t
 
 * I thank Billie Thompson for providing README.md template for this work.
 
-# gitpractice
