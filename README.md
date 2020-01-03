@@ -46,10 +46,6 @@ git push
 
 git add command updates the index using the current content found in the working tree, to prepare the content staged for the next commit. git commit records changes to the repository. git push updates remote refs along with associated objects (https://git-scm.com/docs).
 
-## Deployment
-
-Once you are finished with coding, you can simply push your code to remote Github repository.
-
 ## Built With
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
@@ -64,7 +60,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Sejin Nam** - *Initial work* - [gitpractice](https://github.com/sejin8642/gitpractice)
+* [Devil Man](https://github.com/ackma3141)
 
 See also the list of [contributors](https://github.com/sejin8642/gitpractice/contributors) who participated in this project.
 
