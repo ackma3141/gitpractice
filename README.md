@@ -44,7 +44,7 @@ git commit
 git push
 ```
 
-git add command updates the index using the current content found in the working tree, to prepare the content staged for the next commit. git commit records changes to the repository. git push updates remote refs along with associated objects (https://git-scm.com/docs).
+Git add command updates the index using the current content found in the working tree, to prepare the content staged for the next commit. Git commit records changes to the repository. git push updates remote refs along with associated objects (https://git-scm.com/docs).
 
 ## Built With
 
@@ -66,9 +66,5 @@ See also the list of [contributors](https://github.com/sejin8642/gitpractice/con
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* I thank Billie Thompson for providing README.md template for this work.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
