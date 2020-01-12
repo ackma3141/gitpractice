@@ -1,0 +1,17 @@
+this text file is to test
+git diff command
+but not in the index!!
+it will take some time to get used to
+hello?
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+12
+
