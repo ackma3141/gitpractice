@@ -1,3 +1,0 @@
-Here are another experiment with git rm command
-Hope it works
-
